@@ -1,0 +1,7 @@
+-N 8
+
+-o "%USERPROFILE%\Downloads\yt-dlp\%(title)s.%(ext)s" 
+
+--cookies-from-browser firefox
+
+--embed-metadata --embed-thumbnail
