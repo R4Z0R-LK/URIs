@@ -1,6 +1,6 @@
 -N 8
 
--o "%USERPROFILE%\Downloads\yt-dlp\%(title)s.%(ext)s" 
+-o "%USERPROFILE%\Downloads\rzryt\%(title)s.%(ext)s" 
 
 --cookies-from-browser firefox
 
